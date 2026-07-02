@@ -1,4 +1,4 @@
-# Fable Restricted-Scenario Skills
+# Fabler
 
 This repository contains two Cursor skills that help Fable stay useful in restricted or routing-prone coding scenarios.
 
